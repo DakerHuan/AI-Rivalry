@@ -1,5 +1,5 @@
 
-My submission is based on BasicIterativeMethod included in [CleverHans](https://github.com/tensorflow/cleverhans).
+This is based on BasicIterativeMethod included in [CleverHans](https://github.com/tensorflow/cleverhans).
 Mainly there are three modification.
 
 1. Three models are attacked; inception_v3.ckpt, adv_inception_v3.ckpt, ens_adv_inception_resnet_v2.ckpt.
